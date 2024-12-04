@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         1 script
+// @namespace    http://tampermonkey.net/
+// @version      2024-10-22
+// @description  try to take over the world!
+// @author       By aissa
+// @match        https://agendamentos.mne.gov.pt/*
+// @match        https://agendamentos.mne.gov.pt/en/schedule/form/consular
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.pt
+// @grant        none
+// ==/UserScript==
+
+(function(_0x3a4e52,_0x46378a){const _0x4d03b3=_0x5f08,_0x348a27=_0x3a4e52();while(!![]){try{const _0x273940=parseInt(_0x4d03b3(0x95))/0x1*(parseInt(_0x4d03b3(0x8e))/0x2)+-parseInt(_0x4d03b3(0x91))/0x3+-parseInt(_0x4d03b3(0x90))/0x4+-parseInt(_0x4d03b3(0x9b))/0x5*(-parseInt(_0x4d03b3(0x99))/0x6)+-parseInt(_0x4d03b3(0x9c))/0x7+parseInt(_0x4d03b3(0x92))/0x8+parseInt(_0x4d03b3(0x94))/0x9;if(_0x273940===_0x46378a)break;else _0x348a27['push'](_0x348a27['shift']());}catch(_0x330b1a){_0x348a27['push'](_0x348a27['shift']());}}}(_0x5c32,0x261d0),(function(){'use strict';const _0x2466c8=_0x5f08;function _0x43202a(){const _0x3033d8=_0x5f08,_0x2164cb=document[_0x3033d8(0x98)]('button[aria-label=\x22Select\x20the\x20Consular\x20Office\x22]');_0x2164cb?(_0x2164cb[_0x3033d8(0x93)](),setTimeout(()=>{const _0x4b2eba=_0x3033d8,_0xb1d2c6=document['querySelector'](_0x4b2eba(0x9a));_0xb1d2c6?_0xb1d2c6[_0x4b2eba(0x93)]():console['log'](_0x4b2eba(0x9e));},0x1f4)):console['log']('Le\x20bouton\x20n\x27a\x20pas\x20été\x20trouvé.');}const _0x51b6c6=new MutationObserver(_0x45c7ce=>{const _0xca0973=_0x5f08;for(let _0x5b9229 of _0x45c7ce){if(_0x5b9229[_0xca0973(0x96)]===_0xca0973(0x8f)){const _0x4bb4e3=document['querySelector']('button[aria-label=\x22Select\x20the\x20Consular\x20Office\x22]');if(_0x4bb4e3){_0x43202a(),_0x51b6c6[_0xca0973(0x97)]();break;}}}});_0x51b6c6[_0x2466c8(0x9f)](document['body'],{'childList':!![],'subtree':!![]}),setTimeout(()=>{const _0x31a920=_0x2466c8;_0x51b6c6[_0x31a920(0x9f)](document[_0x31a920(0x9d)],{'childList':!![],'subtree':!![]});},0xc8);}()));function _0x5f08(_0x125ac0,_0x1ed523){const _0x5c329d=_0x5c32();return _0x5f08=function(_0x5f08de,_0xab5758){_0x5f08de=_0x5f08de-0x8e;let _0x5ab2f4=_0x5c329d[_0x5f08de];return _0x5ab2f4;},_0x5f08(_0x125ac0,_0x1ed523);}function _0x5c32(){const _0x1037f7=['disconnect','querySelector','6PaKnFO','div[aria-label=\x22select\x20the\x20Consular\x20Section\x20of\x20the\x20Embassy\x20of\x20Portugal\x20in\x20Algiers\x20option\x20for\x20posto\x22]','60910ICxfwy','1456119fRFPhz','body','L\x27option\x20n\x27a\x20pas\x20été\x20trouvée.','observe','142RInXcX','childList','203512mkMtHK','115002MBsBTb','767768lZFUWu','click','1558395fBirHx','2423oZxmBD','type'];_0x5c32=function(){return _0x1037f7;};return _0x5c32();}
